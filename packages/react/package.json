@@ -7,10 +7,10 @@
   "module": "dist/react.esm.js",
   "license": "MIT",
   "devDependencies": {
-    "@babel/cli": "7.10.3",
-    "@babel/core": "7.10.3",
-    "@babel/preset-env": "7.10.3",
-    "@babel/preset-react": "7.10.1",
+    "@babel/cli": "7.14.5",
+    "@babel/core": "7.14.6",
+    "@babel/preset-env": "7.14.5",
+    "@babel/preset-react": "7.14.5",
     "react": "16.13.1"
   },
   "dependencies": {
